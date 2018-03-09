@@ -13,6 +13,8 @@ With default values:
 
 
 ### Why this name?
-twwt stands for **w**ai**w**an-**w**ea**t**her.
+twwt stands for **t**ai**w**an-**w**ea**t**her.
 
 It's just quicker to type.
+
+Maybe should change for `tw`?
