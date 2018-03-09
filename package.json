@@ -1,0 +1,26 @@
+{
+	"name": "taiwan-weather-cli",
+	"version": "0.0.1",
+	"description": "A CLI for taiwan-weather module",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/VictorCazanave/taiwan-weather-cli.git"
+	},
+	"keywords": [
+		"Taiwan",
+		"weather",
+		"forecast",
+		"CLI",
+		"open data"
+	],
+	"author": "Victor Cazanave <victor.cazanave@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/VictorCazanave/taiwan-weather-cli/issues"
+	},
+	"homepage": "https://github.com/VictorCazanave/taiwan-weather-cli#readme"
+}
