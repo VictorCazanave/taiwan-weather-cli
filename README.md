@@ -24,4 +24,4 @@ Available values for [`--loc`](https://www.npmjs.com/package/taiwan-weather#data
 
 ## Example
 
-`tw -api-key 1234-5678-ABCD-EFGH --loc TAIPEI_CITY HSINCHU_COUNTY --freq WEEKDAY --lang EN --output ./data --json`
+`tw --api-key 1234-5678-ABCD-EFGH --loc TAIPEI_CITY HSINCHU_COUNTY --freq WEEKDAY --lang EN --output ./data --json`
