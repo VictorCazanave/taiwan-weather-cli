@@ -1,4 +1,8 @@
 # taiwan-weather-CLI
+
+[![Dependency Status](https://david-dm.org/VictorCazanave/taiwan-weather-cli.svg)](https://david-dm.org/VictorCazanave/taiwan-weather-cli)
+[![NSP Status](https://nodesecurity.io/orgs/victorcazanave/projects/e1209cfb-15e0-43dd-b14d-3764e5fb9b04/badge)](https://nodesecurity.io/orgs/victorcazanave/projects/e1209cfb-15e0-43dd-b14d-3764e5fb9b04)
+
 A CLI for [taiwan-weather](https://www.npmjs.com/package/taiwan-weather) node.js module.
 
 This is just a wrapper that does not add any features.
