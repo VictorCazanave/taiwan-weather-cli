@@ -20,22 +20,17 @@ program
 	.option('-V, --verbose', 'verbose mode to display logs')
 	.parse(process.argv);
 
-if(program.apiKey) {
-	tw.get(program.apiKey, {
-		loc: program.loc,
-		freq: program.freq,
-		lang: program.lang,
-		output: program.output,
-		prefix: program.prefix,
-		toJson: program.json
-	}, (err) => {
-		if (err) {
-			console.error(err);
-		} else {
-			console.log('All files have been downloaded.');
-		}
-	});
-} else {
-	console.error(`\n  error: option '-k, --api-key' is required\n`);
-}
-
+tw.get(program.apiKey, {
+	loc: program.loc,
+	freq: program.freq,
+	lang: program.lang,
+	output: program.output,
+	prefix: program.prefix,
+	toJson: program.json,
+	debug: program.verbose
+}, (err) => {
+	if (err) {
+		// Use global.__logger from taiwan-weather module
+		__logger.error(err);
+	}
+});
