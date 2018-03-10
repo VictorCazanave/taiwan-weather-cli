@@ -1,0 +1,35 @@
+{
+	"name": "taiwan-weather-CLI",
+	"version": "1.0.0",
+	"description": "A CLI for taiwan-weather node.js module",
+	"main": "index.js",
+	"bin": {
+		"tw": "./index.js"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/VictorCazanave/taiwan-weather-cli.git"
+	},
+	"keywords": [
+		"Taiwan",
+		"weather",
+		"forecast",
+		"CLI",
+		"open data"
+	],
+	"author": "Victor Cazanave <victor.cazanave@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/VictorCazanave/taiwan-weather-cli/issues"
+	},
+	"homepage": "https://github.com/VictorCazanave/taiwan-weather-cli#readme",
+	"dependencies": {
+		"command-line-args": "^5.0.2",
+		"command-line-usage": "^5.0.2",
+		"pkginfo": "^0.4.1",
+		"taiwan-weather": "^1.1.1"
+	}
+}
