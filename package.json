@@ -1,5 +1,5 @@
 {
-	"name": "taiwan-weather-CLI",
+	"name": "taiwan-weather-cli",
 	"version": "1.0.0",
 	"description": "A CLI for taiwan-weather node.js module",
 	"main": "index.js",
