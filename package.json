@@ -30,6 +30,6 @@
 		"command-line-args": "^5.0.2",
 		"command-line-usage": "^5.0.2",
 		"pkginfo": "^0.4.1",
-		"taiwan-weather": "^1.1.1"
+		"taiwan-weather": "^1.1.3"
 	}
 }
