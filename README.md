@@ -1,5 +1,6 @@
 # taiwan-weather-CLI
 
+[![npm version](https://badge.fury.io/js/taiwan-weather-cli.svg)](https://badge.fury.io/js/taiwan-weather-cli)
 [![Dependency Status](https://david-dm.org/VictorCazanave/taiwan-weather-cli.svg)](https://david-dm.org/VictorCazanave/taiwan-weather-cli)
 [![NSP Status](https://nodesecurity.io/orgs/victorcazanave/projects/e1209cfb-15e0-43dd-b14d-3764e5fb9b04/badge)](https://nodesecurity.io/orgs/victorcazanave/projects/e1209cfb-15e0-43dd-b14d-3764e5fb9b04)
 
